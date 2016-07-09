@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\新建文件夹\发布</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/crud.bll.dll">
+      <publishTime>12/02/2015 17:21:42</publishTime>
+    </File>
+    <File Include="bin/crud.dal.dll">
+      <publishTime>12/02/2015 17:21:41</publishTime>
+    </File>
+    <File Include="bin/crud.model.dll">
+      <publishTime>12/02/2015 17:21:39</publishTime>
+    </File>
+    <File Include="bin/crud.ui.dll">
+      <publishTime>12/02/2015 17:21:43</publishTime>
+    </File>
+    <File Include="DeleteContact.ashx">
+      <publishTime>07/19/2015 21:54:12</publishTime>
+    </File>
+    <File Include="InsertContact.aspx">
+      <publishTime>07/19/2015 22:20:44</publishTime>
+    </File>
+    <File Include="ShowContact.aspx">
+      <publishTime>07/19/2015 22:07:27</publishTime>
+    </File>
+    <File Include="UpdateContact.aspx">
+      <publishTime>07/19/2015 21:51:33</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/02/2015 17:21:45</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+E:\新建文件夹\c#练习\aspx的增删改查\crud.model\bin\Release\crud.model.dll
+E:\新建文件夹\c#练习\aspx的增删改查\crud.model\bin\Release\crud.model.pdb
+E:\新建文件夹\c#练习\aspx的增删改查\crud.model\obj\Release\crud.model.dll
+E:\新建文件夹\c#练习\aspx的增删改查\crud.model\obj\Release\crud.model.pdb

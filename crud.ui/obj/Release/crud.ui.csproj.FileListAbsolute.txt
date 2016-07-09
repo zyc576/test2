@@ -1,0 +1,12 @@
+E:\新建文件夹\c#练习\aspx的增删改查\crud.ui\bin\crud.ui.dll.config
+E:\新建文件夹\c#练习\aspx的增删改查\crud.ui\bin\crud.ui.dll
+E:\新建文件夹\c#练习\aspx的增删改查\crud.ui\bin\crud.ui.pdb
+E:\新建文件夹\c#练习\aspx的增删改查\crud.ui\bin\crud.bll.dll
+E:\新建文件夹\c#练习\aspx的增删改查\crud.ui\bin\crud.model.dll
+E:\新建文件夹\c#练习\aspx的增删改查\crud.ui\bin\crud.dal.dll
+E:\新建文件夹\c#练习\aspx的增删改查\crud.ui\bin\crud.bll.pdb
+E:\新建文件夹\c#练习\aspx的增删改查\crud.ui\bin\crud.model.pdb
+E:\新建文件夹\c#练习\aspx的增删改查\crud.ui\bin\crud.dal.pdb
+E:\新建文件夹\c#练习\aspx的增删改查\crud.ui\obj\Release\crud.ui.csprojResolveAssemblyReference.cache
+E:\新建文件夹\c#练习\aspx的增删改查\crud.ui\obj\Release\crud.ui.dll
+E:\新建文件夹\c#练习\aspx的增删改查\crud.ui\obj\Release\crud.ui.pdb
